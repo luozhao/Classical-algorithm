@@ -40,4 +40,5 @@ int main()
 	int n = sizeof(a) / sizeof(int);
 	select_sort(a,n);
 	print(a,n);
+	return 0;
 }
